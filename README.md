@@ -5,6 +5,7 @@ This is a simple console-based Hotel Management System implemented in C++. This 
 
 
 **Features**
+
 ##Guest Management:## Add and view guest information, including name, contact details, and room number.
 
 ##Room Availability:## Check room availability and assign rooms to guests.
